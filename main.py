@@ -1,3 +1,4 @@
+#Anastasia Avilova, Jūlija Kuļikovska, Artūrs Kalniņš, Maksims Klaģišs
 text = input( "Ievadiet tekstu: ")
 def deleteE(text):
   if text.count("e")>0:
