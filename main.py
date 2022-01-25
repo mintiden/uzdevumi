@@ -1,4 +1,4 @@
-#Anastasia Avilova, Jūlija Kuļikovska, Artūrs Kalniņš, Maksims Klaģišs
+#Anastasia Avilova, Jūlija Kuļikovska, Artūrs Kalniņš, Maksims Klaģišs, Tatjana Karpenkova
 text = input( "Ievadiet tekstu: ")
 def deleteE(text):
   if text.count("e")>0:
